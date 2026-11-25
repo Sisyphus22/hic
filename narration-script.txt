@@ -1,0 +1,174 @@
+HIC! narration script: one recording per scene.
+Save each recording as an MP3 named exactly as shown (scene-01.mp3 ... scene-57.mp3) and send them to Claude.
+Each line is: the English caption, then what's happening.
+
+scene-01.mp3  (tapestry scene 1)
+King Edward. Edward the Confessor, King of England, sits on his throne talking with two men, probably including Harold. The tapestry opens before anyone knows a crisis is coming. Historians think the word EDWARD was touched up by later restorers.
+
+scene-02.mp3  (tapestry scene 2–3)
+Where Harold, an English leader, rides with his knights to the church at Bosham. Harold Godwinson, the most powerful earl in England, rides out with hounds and a hawk on his wrist and stops to pray at Bosham on the Sussex coast.
+
+scene-03.mp3  (tapestry scene 4)
+Here Harold sailed across the sea. Nobody is sure why Harold crossed the Channel. Norman writers said King Edward sent him to promise William the crown.
+
+scene-04.mp3  (tapestry scene 5)
+and with the wind filling his sails he came to the land of Count Guy. Harold lands in Ponthieu, the territory of Count Guy (Wido), on the French coast.
+
+scene-05.mp3  (tapestry scene 6)
+Harold. Harold steps ashore, and things are about to go wrong for him.
+
+scene-06.mp3  (tapestry scene 7)
+Here Guy seizes Harold. Count Guy arrests Harold, probably hoping for a ransom: shipwrecked nobles were valuable.
+
+scene-07.mp3  (tapestry scene 8)
+and took him to Beaurain and held him there. Harold is taken to Guy's castle at Beaurain.
+
+scene-08.mp3  (tapestry scene 9)
+Where Harold and Guy talk. The sign ⁊ is the medieval shorthand for 'and'. 'Parabolant' gives us French parler, 'to speak'.
+
+scene-09.mp3  (tapestry scene 10)
+Where Duke William's messengers came to Guy · Turold. A small bearded man named Turold holds the horses. Nobody knows for certain who he was.
+
+scene-10.mp3  (tapestry scene 11)
+William's messengers. William's men gallop to demand Harold's release.
+
+scene-11.mp3  (tapestry scene 12)
+Here a messenger comes to Duke William. William, Duke of Normandy, hears the news of Harold's capture.
+
+scene-12.mp3  (tapestry scene 13)
+Here Guy brought Harold to William, Duke of the Normans. Guy hands Harold over. William now has a powerful guest, and leverage.
+
+scene-13.mp3  (tapestry scene 14)
+Here Duke William comes with Harold to his palace. They arrive at William's palace, probably at Rouen.
+
+scene-14.mp3  (tapestry scene 15)
+Where a priest and Ælfgyva …. The tapestry's great mystery: the sentence has no verb, and nobody knows who Ælfgyva was or what scandal is hinted at. The naked figure in the border below suggests gossip.
+
+scene-15.mp3  (tapestry scene 16)
+Here Duke William and his army came to Mont-Saint-Michel. William takes Harold on campaign against Brittany. Mont-Saint-Michel appears as a hill-top abbey.
+
+scene-16.mp3  (tapestry scene 17)
+and here they crossed the river Couesnon · here Duke Harold pulled them out of the quicksand. Harold the hero rescues two Norman soldiers from the quicksand, one carried on his back.
+
+scene-17.mp3  (tapestry scene 18)
+and they came to Dol, and Conan fled · Rennes. Duke Conan II of Brittany escapes from Dol by sliding down a rope.
+
+scene-18.mp3  (tapestry scene 19)
+Here Duke William's knights fight the people of Dinan. The Normans set fire to the wooden castle of Dinan.
+
+scene-19.mp3  (tapestry scene 20)
+and Conan handed over the keys. Conan surrenders, passing the keys of Dinan out on the tip of a lance.
+
+scene-20.mp3  (tapestry scene 21)
+Here William gave arms to Harold. William gives Harold weapons and armour, making him, in Norman eyes, William's man.
+
+scene-21.mp3  (tapestry scene 22)
+Here William came to Bayeux. HIE is a stitching slip for HIC. Bayeux is the town where the tapestry was later kept.
+
+scene-22.mp3  (tapestry scene 23)
+Where Harold swore an oath to Duke William. The most important scene for the Normans: Harold swears on holy relics, they said to support William's claim to the English throne.
+
+scene-23.mp3  (tapestry scene 24)
+Here Duke Harold went back to England. Harold sails home. Faces watch from a building as he arrives.
+
+scene-24.mp3  (tapestry scene 25)
+and he came to King Edward. Harold reports to Edward, who now looks old and frail and seems to scold him.
+
+scene-25.mp3  (tapestry scene 26)
+Here King Edward's body is carried to the Church of St Peter the Apostle. Edward's funeral at his new abbey, Westminster. A hand of God reaches down from heaven over the church.
+
+scene-26.mp3  (tapestry scene 27)
+Here King Edward, in bed, speaks to his faithful followers. The story runs backwards here: Edward's deathbed comes after his funeral. English sources say he named Harold as his heir.
+
+scene-27.mp3  (tapestry scene 28)
+and here he died. Edward the Confessor dies, with no children.
+
+scene-28.mp3  (tapestry scene 29)
+Here they gave Harold the king's crown. Harold is offered the crown the very next day.
+
+scene-29.mp3  (tapestry scene 30)
+Here sits Harold, King of the English. Harold II is crowned, probably at Westminster Abbey on the day of Edward's burial.
+
+scene-30.mp3  (tapestry scene 31)
+Archbishop Stigand. Stigand, Archbishop of Canterbury, stands beside Harold. The Normans thought him an illegitimate archbishop, which made the coronation look shady.
+
+scene-31.mp3  (tapestry scene 32)
+These people marvel at the star. Halley's Comet blazes across the sky in late April 1066, seen as an omen of disaster.
+
+scene-32.mp3  (tapestry scene 33)
+Harold. Harold listens to news while ghostly ships appear in the border below: an invasion is coming.
+
+scene-33.mp3  (tapestry scene 34)
+Here an English ship came to Duke William's land. News of Harold's coronation reaches Normandy.
+
+scene-34.mp3  (tapestry scene 35)
+Here Duke William ordered ships to be built. Trees are felled and planks shaped with axes and adzes: a whole fleet is built over the summer.
+
+scene-35.mp3  (tapestry scene 36)
+Here they drag the ships to the sea. The new ships are hauled down to the water.
+
+scene-36.mp3  (tapestry scene 37)
+These men carry weapons to the ships, and here they pull a cart loaded with wine and weapons. Mail shirts, swords, helmets, and a barrel of wine: the essentials of an invasion.
+
+scene-37.mp3  (tapestry scene 38)
+Here Duke William crossed the sea in a great ship and came to Pevensey. The fleet crosses overnight and lands at Pevensey in Sussex, unopposed: Harold was in the north, fighting the Vikings.
+
+scene-38.mp3  (tapestry scene 39)
+Here the horses get out of the ships. The Normans brought their warhorses across the Channel.
+
+scene-39.mp3  (tapestry scene 40)
+and here the knights hurried to Hastings to grab food. The invaders raid the countryside for supplies.
+
+scene-40.mp3  (tapestry scene 41)
+This is Wadard. Wadard was a real Norman knight who later held lands in England from Bishop Odo.
+
+scene-41.mp3  (tapestry scene 42)
+Here the meat is cooked, and here the servants served it. A medieval cooking scene: kebabs on skewers, a pot over the fire, an oven.
+
+scene-42.mp3  (tapestry scene 43)
+Here they have a meal · and here the bishop blesses the food and drink. A feast that looks a little like the Last Supper, with Bishop Odo at the centre.
+
+scene-43.mp3  (tapestry scene 44)
+Bishop Odo, William, Robert. William sits between his two half-brothers, Odo of Bayeux and Robert of Mortain. Odo probably ordered the tapestry made.
+
+scene-44.mp3  (tapestry scene 45)
+He ordered a castle mound to be dug at Hastings · the camp. The English-style spellings AT and CEASTRA are clues that English embroiderers made the tapestry.
+
+scene-45.mp3  (tapestry scene 46)
+Here William is told about Harold. A messenger brings news of Harold's army approaching.
+
+scene-46.mp3  (tapestry scene 47)
+Here a house is burned. A woman and child flee a burning house, a rare glimpse of ordinary people in war.
+
+scene-47.mp3  (tapestry scene 48)
+Here the knights left Hastings and went to battle against King Harold. The Norman cavalry rides out on the morning of the battle.
+
+scene-48.mp3  (tapestry scene 49)
+Here Duke William asks Vital whether he has seen Harold's army. Vital, a scout, reports back. He too was a real tenant of Bishop Odo.
+
+scene-49.mp3  (tapestry scene 50)
+This man tells King Harold about Duke William's army. An English lookout spots the Normans.
+
+scene-50.mp3  (tapestry scene 51)
+Here Duke William tells his knights to prepare bravely and wisely for battle against the English army. William's pre-battle speech. The long caption fills the space above the charging horsemen.
+
+scene-51.mp3  (tapestry scene 52)
+Here fell Leofwine and Gyrth, King Harold's brothers. The English shield wall holds on the hill, but Harold's brothers are killed. The letter Ð (eth) is Old English.
+
+scene-52.mp3  (tapestry scene 53)
+Here English and French fell together in battle. Horses tumble and men fall in a muddle at the foot of the hill.
+
+scene-53.mp3  (tapestry scene 54)
+Here Bishop Odo, holding a club, cheers on the young men. A bishop fighting? Odo carries a club, perhaps because clergy were not supposed to shed blood with a sword.
+
+scene-54.mp3  (tapestry scene 55)
+Here is Duke William. A rumour spread that William was dead, so he pushes back his helmet to show his face to his men.
+
+scene-55.mp3  (tapestry scene 56)
+Eustace · here the French fight, and those who were with Harold fell. Count Eustace of Boulogne points to William. Harold's household troops die around him.
+
+scene-56.mp3  (tapestry scene 57)
+Here King Harold was killed. The famous scene. Whether Harold is the man with the arrow in his eye, the man cut down by a horseman, or both, is still argued about.
+
+scene-57.mp3  (tapestry scene 58)
+and the English turned and fled. The last surviving scene. The tapestry's true ending is lost, and these words may have been added by later restorers. William was crowned on Christmas Day 1066.

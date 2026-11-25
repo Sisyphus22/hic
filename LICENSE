@@ -1,0 +1,21 @@
+HIC! – the Bayeux Tapestry, remixed
+Copyright (c) 2026 Valeria. All rights reserved.
+
+Made with Claude (Anthropic).
+
+This repository is published so people can use the HIC! website and download the
+desktop app for personal use. No licence is granted to copy, modify, redistribute,
+republish or create derivative works from the code, design or written content
+(translations, scene notes and texts) in this repository, in whole or in part,
+without written permission from the copyright holder.
+
+The Bayeux Tapestry itself (11th century) is in the public domain. The tapestry
+photographs in tapestry/ come from the 2017 high-resolution photography by the
+Université de Caen Normandie with the Bayeux Museum, published on Wikimedia Commons
+(files "Tapisserie de Bayeux, p1.jpg" and "p2.jpg") and marked public domain there as
+faithful reproductions of a two-dimensional public-domain work. Their reuse is
+governed by that status, not by this licence. The Latin inscriptions are the
+tapestry's own.
+
+Medieval captions are written by Claude via each user's own Anthropic API key.
+Use of Claude is subject to Anthropic's own terms.
